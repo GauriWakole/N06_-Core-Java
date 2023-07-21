@@ -1,7 +1,8 @@
 //Pogram to demonstrate pn compile-Time-Input
 package org.tnsif.introduction;
 
-public class CompilerInput {
+public class CompilerInput 
+{
 
 	public static void main(String[] args) 
 	{
