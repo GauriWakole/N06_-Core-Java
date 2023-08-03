@@ -12,7 +12,7 @@ public class StaticMethodExecutor {
 	static void displayScore(int score)
 	{
 		System.out.println();
-		/*we cant use non static variable inside the static method
+		/*we can,t use non static variable inside the static method
 		 */
 		System.out.println("Score is: "+score);
 	}
@@ -24,3 +24,7 @@ public class StaticMethodExecutor {
 	}
 
 }
+
+
+
+
